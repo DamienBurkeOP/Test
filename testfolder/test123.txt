@@ -5,4 +5,9 @@ This is a test
 |Test Damiens branch
 Test 123
 >>>>>>> Test-DamiensWork
+<<<<<<< HEAD
 jfjsafksdf
+=======
+asdasdasdd
+asdasdas
+>>>>>>> Aleks-Branch
